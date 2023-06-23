@@ -8,6 +8,9 @@ cffi = "*"
 numpy = "*"
 pandas = "*"
 openpyxl = "*"
+gmaps = "*"
+ipython = "*"
+gmplot = "*"
 
 [dev-packages]
 
